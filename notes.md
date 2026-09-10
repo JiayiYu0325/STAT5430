@@ -1,4 +1,0 @@
-This is Emily's git note
-This is my second sentence.
-E m i l y ' s   E d i t
-
